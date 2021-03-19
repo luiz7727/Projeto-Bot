@@ -1,0 +1,1 @@
+ProjetoBot é um projeto onde contém um bot sobre games dentro de uma página de games, esse bot é criado na ibm cloud e está em fase de desenvolvimento ainda, mas voces já podem ir testando para ver a qualidade do bot.E se alguem quiser fazer uma alteração interresante no site, fique a vontade.É NOIX
